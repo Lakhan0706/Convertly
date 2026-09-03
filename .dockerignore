@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+convertly-server.log
+.git
+.agents
+.codex
+*.md

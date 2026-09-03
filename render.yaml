@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: convertly
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    autoDeploy: true

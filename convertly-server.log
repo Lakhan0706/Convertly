@@ -1,0 +1,9 @@
+Warning: Cannot polyfill `DOMMatrix`, rendering may be broken: "Error: Cannot find module 'canvas'
+Require stack:
+- C:\Users\HP\Downloads\Convertly_Updated_PDF_Workspace\node_modules\pdfjs-dist\legacy\build\pdf.js
+- C:\Users\HP\Downloads\Convertly_Updated_PDF_Workspace\server.js".
+Warning: Cannot polyfill `Path2D`, rendering may be broken: "Error: Cannot find module 'canvas'
+Require stack:
+- C:\Users\HP\Downloads\Convertly_Updated_PDF_Workspace\node_modules\pdfjs-dist\legacy\build\pdf.js
+- C:\Users\HP\Downloads\Convertly_Updated_PDF_Workspace\server.js".
+Convertly running at http://localhost:8082
